@@ -14,6 +14,6 @@ ClearVision_v6.theme.css
   
 [![Discord Server][discord-badge]][discord-link]
 
-(https://github.com/ac1dv1p3r/Acidv1son/Screenshot/screenshot.png)
+https://github.com/ac1dv1p3r/Acidv1son/blob/2d209519bb8598e153bc0d9b9e865c2c1554e96e/Screenshot/screenshot.png
 
 </div>
