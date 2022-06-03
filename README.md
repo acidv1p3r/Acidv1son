@@ -7,7 +7,7 @@ a custom theme for Powercord or Betterdickcord using Clearvision
 
 <div align="center">
 
-# AcidV1sion v1
+# Acidv1sion v1
 
   
 [![Discord Server][discord-badge]][discord-link]
