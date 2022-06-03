@@ -14,6 +14,6 @@ ClearVision_v6.theme.css
   
 [![Discord Server][discord-badge]][discord-link]
 
-![v6 Sapphire](https://github.com/ac1dv1p3r/Acidv1son/Screenshot/screenshot.jpg)
+![v6 Sapphire](https://github.com/ac1dv1p3r/Acidv1son/Screenshot/screenshot.png)
 
 </div>
