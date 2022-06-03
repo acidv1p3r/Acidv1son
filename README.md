@@ -2,7 +2,7 @@
 a custom theme for Powercord or Betterdickcord using Clearvision
 
 
-[discord-badge]: https://discord.com/api/guilds/212324635356692500/widget.png?style=shield
+[discord-badge]: https://discord.com/api/guilds/897156326776520736/widget.png?style=shield
 [discord-link]: https://discord.gg/RgZGCqKxAb
 
 <div align="center">
