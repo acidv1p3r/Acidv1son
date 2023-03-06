@@ -16,12 +16,10 @@ Acidv1son is a custom theme designed for use with Powercord or BetterDiscord, ut
 
 </div>
 
-[AcidV1son.theme.css](https://github.com/ac1dv1p3r/Acidv1son/blob/main/AcidV1son.theme.css)
-
-
 Beterdickcord install
 
 Click on the link to AcidV1son.theme.css below.
+[AcidV1son.theme.css](https://github.com/ac1dv1p3r/Acidv1son/blob/main/AcidV1son.theme.css)
 Click on "Raw" to access the raw file.
 Right-click on the page and select "Save as" to save the file as a Cascading Style Sheet Document file.
 Move the saved file into your themes folder.
