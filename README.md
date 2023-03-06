@@ -16,7 +16,7 @@ Acidv1son is a custom theme designed for use with Powercord or BetterDiscord, ut
 
 </div>
 
-:> [AcidV1son.theme.css](https://github.com/ac1dv1p3r/Acidv1son/blob/main/AcidV1son.theme.css)
+[AcidV1son.theme.css](https://github.com/ac1dv1p3r/Acidv1son/blob/main/AcidV1son.theme.css)
 
 
 Beterdickcord install
