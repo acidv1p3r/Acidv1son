@@ -8,7 +8,7 @@ a custom theme for Powercord or Betterdickcord using Clearvision
 <div align="center">
 
 # Acidv1sion v1
-Acidv1son is a custom theme designed for use with Powercord or BetterDiscord, utilizing Clearvision to provide a sleek and modern look to your Discord interface.
+Acidv1son is a custom theme designed for use with Powercord or Beterdickcord, utilizing Clearvision to provide a sleek and modern look to your Discord interface.
   
 [![Discord Server][discord-badge]][discord-link]
 
