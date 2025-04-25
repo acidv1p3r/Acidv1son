@@ -101,6 +101,99 @@
   --rs-phone-visible: block;
 }
 
-/* Any custom CSS below here */
+/* Updated CSS for new Discord UI */
+:root {
+  --discord-bg: #2f3136;
+  --discord-header-bg: #202225;
+  --discord-sidebar-bg: #2f3136;
+  --discord-text-color: #dcddde;
+  --discord-hover-bg: rgba(255, 255, 255, 0.08);
+  --discord-button-color: #7289da;
+  --discord-border-color: #40444b;
+  --discord-border-radius: 8px;
+}
 
+/* General Styles for New UI */
+body {
+  background-color: var(--discord-bg);
+  color: var(--discord-text-color);
+  font-family: var(--main-font), sans-serif;
+}
 
+.sidebar-2K6atZ {
+  background-color: var(--discord-sidebar-bg) !important;
+  border-right: 1px solid var(--discord-border-color);
+}
+
+.header-2kEUnK {
+  background-color: var(--discord-header-bg) !important;
+  border-bottom: 1px solid var(--discord-border-color);
+}
+
+.channelText-3b-8gJ {
+  color: var(--discord-text-color);
+}
+
+.button-3YtJdV {
+  background-color: var(--discord-button-color);
+  color: white;
+  border-radius: var(--discord-border-radius);
+  border: none;
+}
+
+.button-3YtJdV:hover {
+  background-color: var(--discord-button-color);
+  opacity: 0.8;
+}
+
+.discordPopout-1_dZGg {
+  background: var(--user-popout-image) center / cover no-repeat !important;
+}
+
+.discordModal-2-pfzT {
+  background: var(--user-modal-image) center / cover no-repeat !important;
+}
+
+/* Radial Status Icon adjustments */
+.rs-avatar-2P8q5a {
+  border-radius: var(--rs-avatar-shape);
+  border: 2px solid var(--discord-border-color);
+}
+
+.rs-online-1w7yTu {
+  background-color: var(--rs-online-color);
+}
+
+.rs-idle-2tftqI {
+  background-color: var(--rs-idle-color);
+}
+
+.rs-dnd-1pEFoO {
+  background-color: var(--rs-dnd-color);
+}
+
+.rs-offline-3D-g2G {
+  background-color: var(--rs-offline-color);
+}
+
+.rs-streaming-3w6PE8 {
+  background-color: var(--rs-streaming-color);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--discord-sidebar-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--discord-border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--discord-button-color);
+}
